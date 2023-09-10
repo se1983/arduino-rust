@@ -1,2 +1,2 @@
 # arduino-rust
-Personal playground to do Rust on the Arduino
+Personal playground to do Rust on the Arduino Uno
